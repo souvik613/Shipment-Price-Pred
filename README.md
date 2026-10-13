@@ -16,8 +16,9 @@ conda create -n shipment python=3.11 -y
 conda activate shipment
 ````
 Step 3. Install the requirements 
-```
-pip install -r requirements.txt
+
+```pip install -r requirements.txt
+
 ```
 
 
